@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Testing" verbose="2" configfailurepolicy="continue">
+    <listeners>
+        <listener class-name="org.testng.reporters.XMLReporter"/>
+    </listeners>
+    <test name="Testing">
+        <classes>
+            <class name="com.socks.tests.UserTest"/>
+        </classes>
+    </test>
+</suite>

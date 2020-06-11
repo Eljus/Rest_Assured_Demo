@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-10T08:55:07Z" name="Testing" finished-at="2020-06-10T08:55:11Z" duration-ms="4457">
+    <groups>
+    </groups>
+    <test started-at="2020-06-10T08:55:07Z" name="Testing" finished-at="2020-06-10T08:55:11Z" duration-ms="4457">
+      <class name="com.socks.tests.UserTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.socks.tests.UserTest@55ea2d70]" started-at="2020-06-10T08:55:07Z" name="setUp" finished-at="2020-06-10T08:55:08Z" duration-ms="1050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCanRegisterNewUser()[pri:0, instance:com.socks.tests.UserTest@55ea2d70]" started-at="2020-06-10T08:55:08Z" name="testCanRegisterNewUser" finished-at="2020-06-10T08:55:11Z" duration-ms="3297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCanRegisterNewUser -->
+      </class> <!-- com.socks.tests.UserTest -->
+    </test> <!-- Testing -->
+  </suite> <!-- Testing -->
+</testng-results>

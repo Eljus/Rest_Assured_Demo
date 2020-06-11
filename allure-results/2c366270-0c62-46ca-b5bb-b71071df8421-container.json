@@ -1,0 +1,1 @@
+{"uuid":"2c366270-0c62-46ca-b5bb-b71071df8421","name":"com.socks.tests.UserTest","children":["136051d0-c875-4d2e-a6f8-c85e280eb535"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1591718567453,"stop":1591718568340}],"afters":[],"links":[],"start":1591718567404,"stop":1591718571674}
