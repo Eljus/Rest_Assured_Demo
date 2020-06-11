@@ -15,10 +15,14 @@ API endpoints are:
 6. Hamcrest
 
 
+## Steps to un a project:
 ## Steps to run a project:
 1. Pull project
 2. Open project in any IDE
-3. Run project TestNG file: apiTesting.xml
+3. Download and Install two essential plugins (in Intellij go to File -> Settings -> Plugins):
+    1) RoboPOJOGenerator
+    2) Lombok
+4. Run project TestNG file: apiTesting.xml
 
 To load a report file, run next command:
 allure serve C:<path to allure-results folder>`
